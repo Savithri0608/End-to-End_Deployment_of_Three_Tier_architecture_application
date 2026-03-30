@@ -3,3 +3,6 @@
 *-private.*
 vendor/
 Gopkg.lock
+
+.terraform
+.terraform.lock.hcl
